@@ -11,7 +11,7 @@ I have obtained the CompTIA Sec+ Certification but need to get some hands-on exp
 
 The first thing to decide on is a project that can simulate a threat and also how I can then analyse and remove the threat.
 
-One transferrable idea that I have encountered in my personal and work life is phishing attacks. We've all receieved an email telling us to click a link for some too-good-to-be-true reason or another and instantly felt that moment of regret when we realise, in real time.... we messed up.
+One relatable idea that I have encountered in my personal and work life is phishing attacks. We've all receieved an email telling us to click a link for some too-good-to-be-true reason or another and instantly felt that moment of regret when we realise, in real time.... we messed up.
 
 In a perfect world, the emails we recieve would all be legitimate, honest and **harmless** but unfortunately the _"Perfect World" patch_ has not been released yet....
 
